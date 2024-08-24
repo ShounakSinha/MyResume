@@ -1,19 +1,7 @@
-/* 
-  Dark & Elite Portfolio CSS 
-  - Dark Theme
-  - Subtle Animations
-  - Unique Design Elements
-*/
+
 
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&family=Poppins:wght@600&display=swap');
 
-/*
-  Color Palette
-  - Primary: #FFD700 (Gold) 
-  - Accent: #B8860B (Dark Goldenrod)
-  - Backgrounds: #121212, #1f1f1f
-  - Text: #f5f5f5
-*/
 
 * {
     margin: 0;
@@ -328,7 +316,7 @@ footer {
     flex-wrap: wrap;
     justify-content: center;
     gap: 40px;
-    
+
     grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
     gap: 40px;
     margin-top: 50px;
